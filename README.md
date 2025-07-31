@@ -1,5 +1,5 @@
 # ⚡ AI Sparks 🤖✨
-**Your weekend dose of AI magic with Python**
+**_Your weekend dose of AI magic with Python_**
 
 A collection of **quick, powerful AI scripts** using Python — designed for creators, developers, and AI enthusiasts.  
 This repository is part of the **Saturday AI Sparks** Instagram series, where we explore **exciting AI use cases** with **minimal code**.
